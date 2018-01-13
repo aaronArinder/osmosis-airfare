@@ -1,0 +1,14 @@
+{
+  "name": "osmosisscraper",
+  "version": "1.0.0",
+  "description": "Scraping with Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aaron Arinder",
+  "license": "ISC",
+  "dependencies": {
+    "osmosis": "^1.1.6"
+  }
+}
